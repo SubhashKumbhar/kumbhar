@@ -5,7 +5,7 @@ public class BThreads {
 	String ch = " B"; 
  	synchronized void happy() throws InterruptedException{
 		
-		
+		//comment 
 		for(int i=1; i<=34; i++) 
 		{ 
 		
